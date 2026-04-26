@@ -1,0 +1,70 @@
+{
+  "total_variants": 500,
+  "snv_count": 332,
+  "indel_count": 168,
+  "type_distribution": {
+    "SNV": 332,
+    "InDel": 168
+  },
+  "impact_distribution": {
+    "MODERATE": 203,
+    "MODIFIER": 197,
+    "HIGH": 100
+  },
+  "high_impact": 100,
+  "moderate_impact": 203,
+  "mean_dp": 100.9,
+  "mean_af": 0.514,
+  "qual_range": [
+    20.4,
+    199.4
+  ],
+  "top_genes": {
+    "CDKN2B": 11,
+    "PDGFRA": 10,
+    "ERBB2": 10,
+    "JAK2": 9,
+    "CDH1": 9,
+    "KRT18": 8,
+    "RB1": 8,
+    "AXL": 8,
+    "NTRK1": 8,
+    "ESR1": 8,
+    "PTEN": 7,
+    "NOTCH1": 7,
+    "TWIST1": 7,
+    "MERTK": 7,
+    "CD8A": 7,
+    "ALDH1A1": 7,
+    "CCNE1": 7,
+    "CDKN1A": 7,
+    "TNF": 7,
+    "MDM2": 7
+  },
+  "chrom_distribution": {
+    "chr7": 20,
+    "chrY": 23,
+    "chr21": 18,
+    "chr16": 15,
+    "chr15": 26,
+    "chr22": 27,
+    "chr13": 27,
+    "chr8": 26,
+    "chr12": 24,
+    "chr14": 16,
+    "chr4": 17,
+    "chr20": 24,
+    "chr19": 20,
+    "chr2": 17,
+    "chr6": 22,
+    "chr5": 18,
+    "chr3": 21,
+    "chr10": 19,
+    "chrX": 21,
+    "chr1": 23,
+    "chr17": 28,
+    "chr9": 13,
+    "chr18": 18,
+    "chr11": 17
+  }
+}

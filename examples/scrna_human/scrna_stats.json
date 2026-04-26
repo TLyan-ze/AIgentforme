@@ -1,0 +1,48 @@
+{
+  "n_cell_types": 8,
+  "total_cells": 15991,
+  "cell_types": [
+    "T cell",
+    "B cell",
+    "Macrophage",
+    "NK cell",
+    "Epithelial",
+    "Fibroblast",
+    "Endothelial",
+    "Dendritic cell"
+  ],
+  "cells_per_type": {
+    "T cell": 2058,
+    "B cell": 2207,
+    "Macrophage": 2206,
+    "NK cell": 2690,
+    "Epithelial": 1990,
+    "Fibroblast": 527,
+    "Endothelial": 2826,
+    "Dendritic cell": 1487
+  },
+  "total_markers": 106,
+  "markers_per_cluster": {
+    "B cell": 8,
+    "Dendritic cell": 13,
+    "Endothelial": 8,
+    "Epithelial": 15,
+    "Fibroblast": 19,
+    "Macrophage": 13,
+    "NK cell": 16,
+    "T cell": 14
+  },
+  "high_quality_markers": 101,
+  "hq_per_cluster": {
+    "B cell": 8,
+    "Dendritic cell": 12,
+    "Endothelial": 7,
+    "Epithelial": 15,
+    "Fibroblast": 18,
+    "Macrophage": 12,
+    "NK cell": 15,
+    "T cell": 14
+  },
+  "shared_marker_genes": 0,
+  "top_shared": {}
+}

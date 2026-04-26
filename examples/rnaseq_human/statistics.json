@@ -1,0 +1,89 @@
+{
+  "species": "human",
+  "method": "t-test (scipy fallback)",
+  "total_genes": 2162,
+  "sig_genes": 31,
+  "sig_ratio": 1.43,
+  "up_genes": 27,
+  "down_genes": 4,
+  "fc_threshold": 1.0,
+  "pval_threshold": 0.05,
+  "log2fc_range": [
+    -3.5123,
+    3.6995
+  ],
+  "top_up": [
+    {
+      "gene": "ENSG000000126",
+      "log2FC": 3.3751,
+      "padj": "3.71e-03"
+    },
+    {
+      "gene": "ENSG000000142",
+      "log2FC": 3.0807,
+      "padj": "1.30e-02"
+    },
+    {
+      "gene": "CDK6",
+      "log2FC": 2.4276,
+      "padj": "2.65e-02"
+    },
+    {
+      "gene": "ALDH1A1",
+      "log2FC": 3.0286,
+      "padj": "2.65e-02"
+    },
+    {
+      "gene": "ENSG000000117",
+      "log2FC": 2.9457,
+      "padj": "2.65e-02"
+    },
+    {
+      "gene": "ENSG000000110",
+      "log2FC": 2.6093,
+      "padj": "2.65e-02"
+    },
+    {
+      "gene": "CDKN2A",
+      "log2FC": 3.2909,
+      "padj": "2.96e-02"
+    },
+    {
+      "gene": "VIM",
+      "log2FC": 2.4237,
+      "padj": "2.96e-02"
+    },
+    {
+      "gene": "FOXP3",
+      "log2FC": 2.4389,
+      "padj": "2.96e-02"
+    },
+    {
+      "gene": "MERTK",
+      "log2FC": 2.2801,
+      "padj": "3.05e-02"
+    }
+  ],
+  "top_down": [
+    {
+      "gene": "ENSG000000157",
+      "log2FC": -2.9176,
+      "padj": "3.54e-02"
+    },
+    {
+      "gene": "ENSG000000216",
+      "log2FC": -1.88,
+      "padj": "3.54e-02"
+    },
+    {
+      "gene": "ENSG000000223",
+      "log2FC": -3.2744,
+      "padj": "3.54e-02"
+    },
+    {
+      "gene": "ENSG000000220",
+      "log2FC": -2.264,
+      "padj": "3.96e-02"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+cell_type,n_cells,top_markers
+T cell,2058,"Vim, Vegfa, Kras"
+B cell,2207,"Rad51, Atr, Fcgr3a"
+Macrophage,2206,"Notch1, Hras, Mdm2"
+NK cell,2690,"Twist1, Krt8, Cdk6"
+Epithelial,1990,"Ncam1, Chek1, Krt14"
+Fibroblast,527,"Pik3ca, Cdh2, Cd4"
+Endothelial,2826,"Gata3, Stat3, Pgr"
+Dendritic cell,1487,"Brca1, Akt1, Shc1"
