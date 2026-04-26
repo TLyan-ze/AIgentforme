@@ -7,7 +7,7 @@ BioReportAgent — 生物信息学差异表达分析报告智能体
      并调用 LLM 生成结构化中文分析报告。
 
 作者：颜泽钦
-单位：某三甲医院 实验研究部
+单位：医疗行业 科研部门
 """
 
 import os
@@ -380,7 +380,7 @@ def generate_report(stats: dict, figure_paths: list, output_dir: str,
 
 > **生成时间**: {now}
 > **生成工具**: BioReportAgent v1.0
-> **分析平台**: 实验研究部 生物信息分析平台
+> **分析平台**: 生物信息分析平台
 
 ---
 
@@ -432,7 +432,7 @@ def generate_report(stats: dict, figure_paths: list, output_dir: str,
 ---
 
 *本报告由 BioReportAgent 自动生成，仅供科研参考，不构成临床诊断依据。*
-*实验研究部 — 颜泽钦*
+*BioReportAgent 自动生成 — 颜泽钦*
 """
 
     # 保存报告
