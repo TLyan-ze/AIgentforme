@@ -10,7 +10,7 @@ BioAgent — 生物信息学分析智能体 v2.0
   3. scrna    — 单细胞分析报告 (标记基因 → 细胞类型解读)
   4. enrich   — 独立功能富集分析 (基因列表 → GO/KEGG/Reactome)
 
-作者: 颜泽钦
+作者: Zeqin Yan
 """
 
 import os
